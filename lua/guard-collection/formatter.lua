@@ -351,4 +351,10 @@ M.tombi = {
   stdin = true,
 }
 
+M.deno_fmt = {
+  cmd = 'deno',
+  args = { 'fmt', '-' },
+  stdin = true,
+}
+
 return M

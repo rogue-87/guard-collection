@@ -59,6 +59,7 @@
 - [yamlfmt](https://github.com/google/yamlfmt)
 - [zigfmt](https://github.com/ziglang/zig)
 - [tombi](https://github.com/tombi-toml/tombi)
+- [deno_fmt](https://github.com/denoland/deno) as `deno fmt`
 
 ## Linters
 
