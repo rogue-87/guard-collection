@@ -15,6 +15,7 @@
 - [cljfmt](https://github.com/weavejester/cljfmt)
 - [csharpier](https://csharpier.com/)
 - [dart](https://github.com/dart-lang)
+- [deno_fmt](https://github.com/denoland/deno) as `deno fmt`
 - [djhtml](https://github.com/rtts/djhtml)
 - [docformatter](https://github.com/PyCQA/docformatter)
 - [dprint](https://dprint.dev/)
@@ -59,7 +60,6 @@
 - [yamlfmt](https://github.com/google/yamlfmt)
 - [zigfmt](https://github.com/ziglang/zig)
 - [tombi](https://github.com/tombi-toml/tombi)
-- [deno_fmt](https://github.com/denoland/deno) as `deno fmt`
 
 ## Linters
 
